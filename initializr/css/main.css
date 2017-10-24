@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+img {
+  opacity: 1;
+  width: 100%; height: auto;
+
+}
+img:hover {
+opacity: 0.5;
+
+}
+
+
+.cacca:hover{
+    position:center;
+    top:-25px;
+    left:-35px;
+    width:390px;
+    height:auto;
+    display:block;
+    z-index:888;
+     }
+
+body {
+
+  margin: 0px;
+
+  background-image: url('../img/sfondo.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+}
+
+#testo {
+  background-image: linear-gradient(to bottom, DeepPink 10%, Blue 100%);
+}
+
+#ciccia {
+  background-image: linear-gradient(to bottom, Blue 10%, Deeppink 100%);
+}

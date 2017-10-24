@@ -1,0 +1,13 @@
+
+.btn {
+   border-radius: 50px;
+   opacity: 1;
+}
+
+#prova {
+  opacity: 0.5;
+}
+
+.jumbotron {
+padding: center 1px 1px;margin-bottom:15px;color:mistyrose;background-image: linear-gradient(to bottom, DeepPink 10%, Blue 100%) ;
+}
